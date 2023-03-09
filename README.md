@@ -7,3 +7,7 @@ Phyton notbooks- principios
 ##Día dos - martes
 
 Bucles y condicionales Phytnon
+
+##Día 3 - Miércoles
+
+Programación Funsional
