@@ -11,3 +11,7 @@ Bucles y condicionales Phytnon
 ##Día 3 - Miércoles
 
 Programación Funsional
+
+##Día 4 -Jueves
+
+Teoría SparkSessions y RDD
